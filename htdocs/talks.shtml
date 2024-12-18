@@ -1,0 +1,7 @@
+<!--#set var="sub_title" value="Talks"-->
+<!--#include virtual="/include/header.shtml"-->
+<main>
+    <h2>Talks</h2>
+    <p>I enjoy writing and delivering talks about ancient history, the notes for which will be available here.</p>
+</main>
+<!--#include virtual="/include/footer.shtml"-->
