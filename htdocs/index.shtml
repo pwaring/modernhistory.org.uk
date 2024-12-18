@@ -1,0 +1,7 @@
+<!--#set var="sub_title" value="Paul's collection of modern history resources"-->
+<!--#include virtual="/include/header.shtml"-->
+<main>
+    <h2>Welcome</h2>
+    <p>Modern History UK is a collection of history resources by Paul Waring.</p>
+</main>
+<!--#include virtual="/include/footer.shtml"-->

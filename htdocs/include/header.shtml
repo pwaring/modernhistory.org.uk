@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Modern History UK: <!--#echo var="sub_title"--></title>
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="/css/simple-2.3.3.css">
+  </head>
+  <body>
+    <header>
+        <nav>
+          <a href="/">Home</a>
+          <a href="/about.shtml">About</a>
+          <a href="/contact.shtml">Contact</a>
+        </nav>
+        <h1>Modern History UK</h1>
+        <p>Paul's collection of modern history resources</p>
+    </header>
