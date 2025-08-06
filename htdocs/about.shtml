@@ -1,7 +1,0 @@
-<!--#set var="sub_title" value="About"-->
-<!--#include virtual="/include/header.shtml"-->
-<main>
-    <h2>About</h2>
-    <p>Modern History UK is a collection of history resources by Paul Waring.</p>
-</main>
-<!--#include virtual="/include/footer.shtml"-->

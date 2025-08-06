@@ -1,8 +1,0 @@
-<!--#set var="sub_title" value="Paul's collection of modern history resources"-->
-<!--#include virtual="/include/header.shtml"-->
-<main>
-    <h2>Welcome</h2>
-    <p>Modern History UK is a collection of history resources by Paul Waring.</p>
-    <p>You may also be interested in <a href="https://www.ancienthistory.org.uk/">Ancient History UK</a>, my collection of resources on Greek and Roman history.</p>
-</main>
-<!--#include virtual="/include/footer.shtml"-->
