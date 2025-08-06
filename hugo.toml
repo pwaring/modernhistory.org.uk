@@ -1,0 +1,12 @@
+baseURL = 'https://www.modernhistory.org.uk/'
+languageCode = 'en-gb'
+title = 'Modern History UK'
+theme = 'hugo-simple'
+
+copyright = 'Copyright Paul Waring'
+
+sectionPagesMenu = 'main'
+
+[params]
+    hideRSSLink = true
+    hideMadeWithLine = true

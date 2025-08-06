@@ -1,0 +1,19 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^modernhistory.org.uk$ [NC]
+RewriteRule ^(.*)$ https://www.modernhistory.org.uk/$1 [R=301,L]
+
+Header always set Content-Security-Policy: "style-src 'self'; img-src 'self'; default-src 'none'; frame-ancestors 'none'"
+Header always set X-Content-Type-Options: "nosniff"
+Header always set X-Frame-Options: "DENY"
+Header always set Referrer-Policy: "same-origin"
+Header always set Cross-Origin-Resource-Policy: "same-origin"
+
+# Caching
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/css "access plus 1 day"
+</IfModule>
+
+Redirect permanent /about.shtml /about/
+Redirect permanent /contact.shtml /contact/
+Redirect permanent /talks.shtml /talks/
